@@ -1,0 +1,1 @@
+echo "Goodbye Cruel World"
